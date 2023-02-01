@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+body{
+    background: rgba(46, 110, 78, 0.794);
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40vh;
+    position: absolute;
+    left: 65vh;
+    color: white;
+}
+p{
+    font-size: 7rem;
+}
+
+.set{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
